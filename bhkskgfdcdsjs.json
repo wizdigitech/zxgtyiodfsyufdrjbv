@@ -190,121 +190,156 @@
  },
  {
    "id": 27,
+   "name": "Power 106.1 fm",
+   "propellant": "Jamaica",
+   "destination": "http://ample-zeno-17.radiojar.com/63qk6h62p6duv?rj-ttl=5&rj-token=AAABZJmqWucp0xWCM_wcZX2VwoiNyh1QvqXgyq3s2mTQmaUTohMU9w",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/power106.png"
+ },
+ {
+   "id": 28,
    "name": "Praise Hymn Radio",
    "propellant": "Jamaica",
    "destination": "http://s2.voscast.com:8916/;",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/praisehymn.png"
  },
  {
-   "id": 28,
+   "id": 29,
    "name": "Raggakings Radio",
    "propellant": "Jamaica",
    "destination": "http://stream.raggakings.net:8000/;",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/raggakingsradiofm.png"
  },
  {
-   "id": 29,
+   "id": 30,
    "name": "RebelRadioLink",
    "propellant": "Jamaica",
    "destination": "http://173.192.105.231:5160/;",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/rebelradiolink.png"
  },
  {
-   "id": 30,
+   "id": 31,
    "name": "Reggae 141 Online",
    "propellant": "Jamaica",
    "destination": "http://hestia2.cdnstream.com:80/1301_128",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/reggae141.png"
  },
  {
-   "id": 31,
+   "id": 32,
    "name": "RJR 94.1 fm",
    "propellant": "Jamaica",
    "destination": "http://ample-zeno-04.radiojar.com/ebqnzkvyv9duv?rj-ttl=4&rj-token=AAABZHWymDnrL4QgQ3NPY2-5q9BxiKwBpCO6NCU4GO4eecfnia0jAA",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/rjr94.png"
  },
  {
-   "id": 32,
+   "id": 33,
    "name": "Stylz 96.1 fm",
    "propellant": "Jamaica",
    "destination": "http://ice6.securenetsystems.net/STYLZFM",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/style96.png"
  },
  {
-   "id": 33,
+   "id": 34,
    "name": "SunCity 104.9 fm",
    "propellant": "Jamaica",
    "destination": "http://streams.suncityradio.fm:8000/;",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/suncity104.png"
  },
  {
-   "id": 34,
+   "id": 35,
    "name": "TBC 88.5 fm",
    "propellant": "Jamaica",
    "destination": "http://icy2.abacast.com/tbcradio-tbcradio-31",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/tbc88.png"
  },
  {
-   "id": 35,
+   "id": 36,
    "name": "Tony Culture Time",
    "propellant": "Jamaica",
    "destination": "http://ample-09.radiojar.com/s0f0x4kpqm5tv?rj-ttl=5&rj-token=AAABZHmLs_ARdq2wJ_0HpWRkVsi3Aw1GN-LbdyK61oLvqB_jrQlblQ",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/tonyculturetime.png"
  },
  {
-   "id": 36,
+   "id": 37,
    "name": "Tops Radio",
    "propellant": "Jamaica",
    "destination": "http://edge.mixlr.com/channel/ttmfu",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/topsradio.png"
  },
  {
-   "id": 37,
+   "id": 38,
    "name": "Tun-it-up Radio",
    "propellant": "Jamaica",
    "destination": "http://50.7.99.155:7441/;",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/tunitupradio.png"
  },
  {
-   "id": 38,
+   "id": 39,
    "name": "UFDV Gospel",
    "propellant": "Jamaica",
    "destination": "http://104.238.193.114:7083/live",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/ufdvgospel.png"
  },
  {
-   "id": 39,
+   "id": 40,
    "name": "UFDV Reggae",
    "propellant": "Jamaica",
    "destination": "http://cp3.serverse.com:7059/live",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/ufdvreggaeairways.png"
  },
  {
-   "id": 40,
+   "id": 41,
    "name": "Xume Radio",
    "propellant": "Jamaica",
    "destination": "http://142.4.217.133:9066/stream",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/xumeradio.png"
  },
  {
-   "id": 41,
+   "id": 42,
    "name": "Yawd Vybz 876",
    "propellant": "Jamaica",
    "destination": "http://uk7.internet-radio.com:8075/autodj",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/yawdvybzradio876.png"
  },
  {
-   "id": 42,
+   "id": 43,
    "name": "Zanj Radio",
    "propellant": "Jamaica",
    "destination": "http://5.133.182.164:23477/;",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/zanj.png"
  },
  {
-   "id": 43,
+   "id": 44,
    "name": "Zip 103.5 fm",
    "propellant": "Jamaica",
    "destination": "http://174.132.16.106:22635/;",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/zip103.png"
+ },
+ {
+   "id": 47,
+   "name": "KIIS 102.7 fm",
+   "propellant": "USA",
+   "destination": "http://c2icyelb.prod.playlists.ihrhls.com/185_icy",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/1027kiisfm.png"
+ },
+ {
+   "id": 46,
+   "name": "KTU 103.5 fm",
+   "propellant": "USA",
+   "destination": "http://c5icyelb.prod.playlists.ihrhls.com/1473_icy",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/ktu103.png"
+ },
+ {
+   "id": 48,
+   "name": "MYFM 104.3",
+   "propellant": "USA",
+   "destination": "http://c8icyelb.prod.playlists.ihrhls.com/173_icy",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/1043myfm.png"
+ },
+ {
+   "id": 45,
+   "name": "Z100 fm",
+   "propellant": "USA",
+   "destination": "http://c5icyelb.prod.playlists.ihrhls.com/1469_icy",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/z100fm.png"
  }
 ]
