@@ -315,28 +315,168 @@
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/zip103.png"
  },
  {
+   "id": 45,
+   "name": "Chai 101.9 fm",
+   "propellant": "South Africa",
+   "destination": "http://zas2.ndx.co.za/proxy/chaifm?mp=/stream&1528804841267",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/chaifm1019.png"
+ },
+ {
+   "id": 46,
+   "name": "Aakash Vani 106.5",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://media.guardian.co.tt:8000/aakashvaniradio",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/aakashvani1065.png"
+ },
+ {
    "id": 47,
+   "name": "Bacchanal Radio",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://198.101.15.90:8073/;",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/bacchanalradio.png"
+ },
+ {
+   "id": 48,
+   "name": "Boom Champions 94.1",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://www.ttaccount.com:8080/94.mp3",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/boomchampions941.png"
+ },
+ {
+   "id": 49,
+   "name": "Hott 93.5 fm",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://ice41.securenetsystems.net/HOTT93",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/hott935.png"
+ },
+ {
+   "id": 50,
+   "name": "Isaac 98.1 fm",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://majestic.wavestreamer.com:5707/stream/1/",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/isaac981.png"
+ },
+ {
+   "id": 51,
+   "name": "Jaagriti 102.7 fm",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://198.101.15.90:8140/;",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/jaagritifm1027.png"
+ },
+ {
+   "id": 52,
+   "name": "More 104.7 fm",
+   "propellant": "Trinidad and Tobago",
+   "destination": "https://stream.radio.co/se599d8fd9/listen",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/morefm1047.png"
+ },
+ {
+   "id": 53,
+   "name": "Music Radio 97.1 fm",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://icy1.abacast.com/clcomm-music-64",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/musicradio971.png"
+ },
+ {
+   "id": 54,
+   "name": "Power 102 fm",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://ttaccount.com:8080/102.mp3",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/power102fm.png"
+ },
+ {
+   "id": 55,
+   "name": "Radio 90.5 fm",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://icy3.abacast.com/clcomm-radio90aac-64",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/radio905.png"
+ },
+ {
+   "id": 56,
+   "name": "Real Radio",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://streaming.radio.co/s3928a1fef/listen",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/realradio.png"
+ },
+ {
+   "id": 57,
+   "name": "Red 96.7 fm",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://104.238.99.1:8000/red967.mp3",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/red967.png"
+ },
+ {
+   "id": 58,
+   "name": "Remix 95.1 fm",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://media.guardian.co.tt:8000/951thebestmix",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/remix951fm.png"
+ },
+ {
+   "id": 59,
+   "name": "Sangeet 106.1",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://media.guardian.co.tt:8000/sangeet106",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/sangeet1061.png"
+ },
+ {
+   "id": 60,
+   "name": "Slam 100.5 fm",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://media.guardian.co.tt:8000/slam100.5",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/slam1005fm.png"
+ },
+ {
+   "id": 61,
+   "name": "Tambrin 92.7",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://ice42.securenetsystems.net/TAMBRIN",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/tambrin927.png"
+ },
+ {
+   "id": 62,
+   "name": "Vibe CT 105.1 fm",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://media.guardian.co.tt:8000/vibect105",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/vibect1051.png"
+ },
+ {
+   "id": 63,
+   "name": "W 107.1 fm The Word",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://104.238.99.1:8000/w107_128.mp3",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/w1071fmtheword.png"
+ },
+ {
+   "id": 64,
+   "name": "Wack Radio 90.1 fm",
+   "propellant": "Trinidad and Tobago",
+   "destination": "http://ample-zeno-05.radiojar.com/6178mp9emq5tv?rj-ttl=5&rj-token=AAABZKoJhN8c_-E3masUQUEJGXfL349c9otfEgpttggf2H3AyqaP5A",
+   "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/wackradio901.png"
+ },
+ {
+   "id": 65,
    "name": "KIIS 102.7 fm",
    "propellant": "USA",
    "destination": "http://c2icyelb.prod.playlists.ihrhls.com/185_icy",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/1027kiisfm.png"
  },
  {
-   "id": 46,
+   "id": 66,
    "name": "KTU 103.5 fm",
    "propellant": "USA",
    "destination": "http://c5icyelb.prod.playlists.ihrhls.com/1473_icy",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/ktu103.png"
  },
  {
-   "id": 48,
+   "id": 67,
    "name": "MYFM 104.3",
    "propellant": "USA",
    "destination": "http://c8icyelb.prod.playlists.ihrhls.com/173_icy",
    "imageurl": "https://raw.githubusercontent.com/wizdigitech/zxgtyiodfsyufdrjbv/master/fktykd/1043myfm.png"
  },
  {
-   "id": 45,
+   "id": 68,
    "name": "Z100 fm",
    "propellant": "USA",
    "destination": "http://c5icyelb.prod.playlists.ihrhls.com/1469_icy",
